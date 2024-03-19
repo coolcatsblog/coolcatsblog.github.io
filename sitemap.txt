@@ -1,0 +1,5 @@
+This file is at https://coolcatsblog.github.io/sitemap.txt
+
+Homepage: https://coolcatsblog.github.io
+Aboutpage: https://coolcatsblog.github.io/about
+Blogposts: https://coolcatsblog.github.io/posts
